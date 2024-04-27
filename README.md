@@ -17,6 +17,8 @@ In summary, responsibilities always retained by the customer organization includ
 
 ![shared responsibility model](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/shared_model.jpg)
 
+***Describe defense in depth***
+
 
 ### Describe identity concepts
 
