@@ -6,6 +6,13 @@ https://learn.microsoft.com/en-us/credentials/certifications/security-compliance
 
 ### Describe security and compliance concepts
 
+In summary, responsibilities always retained by the customer organization include:
+
+* Information and data
+* Devices (mobile and PCs)
+* Accounts and identities
+
+
 ### Describe identity concepts
 
 ### TBD
