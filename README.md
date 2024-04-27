@@ -6,6 +6,9 @@ https://learn.microsoft.com/en-us/credentials/certifications/security-compliance
 
 ### Describe security and compliance concepts
 
+
+***Describe the shared responsibility model***
+
 In summary, responsibilities always retained by the customer organization include:
 
 * Information and data
