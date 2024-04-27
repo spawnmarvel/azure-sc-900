@@ -1,1 +1,1 @@
-# azure-SC-900
+# azure-sc-900
