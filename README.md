@@ -12,6 +12,8 @@ In summary, responsibilities always retained by the customer organization includ
 * Devices (mobile and PCs)
 * Accounts and identities
 
+![shared responsibility model](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/shared_model.jpg)
+
 
 ### Describe identity concepts
 
