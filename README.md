@@ -4,6 +4,12 @@
 
 https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification
 
+### Describe security and compliance concepts
+
+### Describe identity concepts
+
+### TBD
+
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
