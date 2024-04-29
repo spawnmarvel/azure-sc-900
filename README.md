@@ -6,7 +6,6 @@ https://learn.microsoft.com/en-us/credentials/certifications/security-compliance
 
 ### Describe security and compliance concepts
 
-
 #### Describe the shared responsibility model
 
 In summary, responsibilities always retained by the customer organization include:
@@ -36,7 +35,37 @@ A defense in-depth strategy uses a series of mechanisms to slow the advance of a
 Confidentiality, Integrity, Availability (CIA)**
 
 As described above, a defense in-depth strategy uses a series of mechanisms to slow the advance of an attack.
+All mechanisms are elements of cyber security, were the goal is:
 
+* Condidentiality
+* * Sensitive data, passwords, financial, can encrypt, but then need to decrypt.
+* integity
+* * Keeping data correct, send data = recieved data, no tampering.
+* availability
+* * making data available to thosse who need it, when they need it.
+
+#### Describe the Zero Trust model
+
+"trust no one, verify everything".
+
+Zero Trust guiding principles
+
+* Verify explicitly. Always authenticate and authorize based on the available data points, including user identity, location, device, service or workload, data classification, and anomalies.
+* Least privileged access., JIT, policys, data protection
+* Assume breach, segment access by nytwork, users, device, application. Encrypt, etc.
+
+***Six foundational pillars***
+
+In the Zero Trust model, all elements work together to provide end-to-end security.
+
+* Identities may be users, services, or devices, verify it, strong auth, and least priv.
+* Devices create a large attack surface, monitor everything.
+* Applications are the way that data is consumed. This includes discovering all applications being used, shadow IT.
+* Data should be classified, labeled, and encrypted based on its attributes.
+* Infrastructure represents a threat factor. assess for version, configuration, JIT and telemetry monitor for attacks.
+* Networks should be segmented, including depper in-network micros segmentation, real-time threat protection, end-2-end encryption, monitor/analytics.
+
+![zero_trust](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/zero_trust.jpg)
 
 
 ### Describe identity concepts
