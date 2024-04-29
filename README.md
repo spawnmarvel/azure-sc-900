@@ -67,6 +67,16 @@ In the Zero Trust model, all elements work together to provide end-to-end securi
 
 ![zero_trust](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/zero_trust.jpg)
 
+#### Describe encryption and hashing
+
+One way to mitigate against threats = encryption.
+
+There are two top-level types of encryption: symmetric and asymmetric.
+
+* Symmetric = same key to encrypt and decrypt the data.
+* Asymmetric = uses a public key and private key pair.
+* * To decrypt, you need a paired key. For example, if the public key is used to encrypt, then only the corresponding private key can be used to decrypt
+
 
 ### Describe identity concepts
 
