@@ -7,7 +7,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/security-compliance
 ### Describe security and compliance concepts
 
 
-***Describe the shared responsibility model***
+#### Describe the shared responsibility model
 
 In summary, responsibilities always retained by the customer organization include:
 
@@ -17,7 +17,7 @@ In summary, responsibilities always retained by the customer organization includ
 
 ![shared responsibility model](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/shared_model.jpg)
 
-***Describe defense in depth***
+#### Describe defense in depth
 
 Defense in depth uses a layered approach to security, rather than relying on a single perimeter.
 
@@ -33,7 +33,7 @@ A defense in-depth strategy uses a series of mechanisms to slow the advance of a
 
 ![layers](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/layers.jpg)
 
-**Confidentiality, Integrity, Availability (CIA)**
+Confidentiality, Integrity, Availability (CIA)**
 
 As described above, a defense in-depth strategy uses a series of mechanisms to slow the advance of an attack.
 
