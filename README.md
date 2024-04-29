@@ -19,6 +19,19 @@ In summary, responsibilities always retained by the customer organization includ
 
 ***Describe defense in depth***
 
+Defense in depth uses a layered approach to security, rather than relying on a single perimeter.
+
+A defense in-depth strategy uses a series of mechanisms to slow the advance of an attack.
+
+* Physical security such as limiting access to a datacenter
+* Identity and access security controls
+* Perimeter security of network, DDos protection to filter large-scale attacks before they can cause a denial of service for users.
+* Network security, network segmentation and limit communication.
+* Compute layer security, closing ports.
+* Application layer security to ensure applications are secure and free of security vulnerabilities.
+* Data layer security, encryption
+
+![layers](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/layers.jpg)
 
 ### Describe identity concepts
 
