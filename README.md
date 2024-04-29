@@ -33,6 +33,12 @@ A defense in-depth strategy uses a series of mechanisms to slow the advance of a
 
 ![layers](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/layers.jpg)
 
+**Confidentiality, Integrity, Availability (CIA)**
+
+As described above, a defense in-depth strategy uses a series of mechanisms to slow the advance of an attack.
+
+
+
 ### Describe identity concepts
 
 ### TBD
