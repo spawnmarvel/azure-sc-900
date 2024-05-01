@@ -139,6 +139,33 @@ Authorization
 
 #### Define identity as the primary security perimeter
 
+Digital collaboration has changed. Your employees and partners now need to collaborate and access organizational resources from anywhere, on any device, and without affecting their productivity. There has also been an acceleration in the number of people working from home.
+
+The security perimeter can no longer be viewed as the on-premises network. It now extends to:
+
+* SaaS applications, hosted outside the corporate network.
+* The personal devices, BYOD.
+* The unmanaged devices used by partners or customers.
+* Internet of things, referred to as IoT devices.
+
+The traditional perimeter-based security model is no longer enough. 
+***Identity has become the new security perimeter that enables organizations to secure their assets.***
+
+An identity is the set of things that define or characterize someone or something.
+
+* a person’s identity, username and password and their level of authorization.
+* An identity may be associated with a user, an application, a device, or something else.
+
+Four pillars of an identity infrastructure
+
+* Administration. Administration is about the creation and management/governance of identities for users, devices, and services.
+* Authentication. The authentication pillar tells the story of how much an IT system needs to know about an identity to have sufficient proof that they really are who they say they are.
+* Authorization. The authorization pillar is about processing the incoming identity data to determine the level of access an authenticated person or service has within the application or service that it wants to access.
+* Auditing. The auditing pillar is about tracking who does what, when, where, and how.
+
+#### Describe the role of the identity provider
+
+Next
 
 
 ### TBD
