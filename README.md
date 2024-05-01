@@ -165,7 +165,21 @@ Four pillars of an identity infrastructure
 
 #### Describe the role of the identity provider
 
-Next
+An identity provider creates, maintains, and manages identity information while offering authentication, authorization, and auditing services.
+
+Modern autentication:
+* C get security token from Idp
+* S validates with Idp via trust relation
+* Token = signed document
+* Claims = info about identity calling the server (person,BYOD, process)
+* * Subject = immutable, non reusable identifier for identity
+* * Issued at = when was issued
+* * Expiration = When expire
+* * Audience = Token is for C1, non other. S1 can not use it for S2.
+
+
+![Identity Provider](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/idp.jpg)
+
 
 
 ### TBD
