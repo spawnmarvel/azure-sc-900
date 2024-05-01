@@ -180,9 +180,55 @@ Modern autentication:
 
 ![Identity Provider](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/idp.jpg)
 
+Microsoft Entra ID is an example of a cloud-based identity provider. Other examples include Google, Amazon, LinkedIn, and GitHub.
+
+Single sign-on
+
+Another fundamental capability of an identity provider and “modern authentication” is the support for single sign-on (SSO). 
+
+* With SSO, the user logs in once and that credential is used to access multiple applications or resources.
 
 
-### TBD
+#### Describe the concept of directory services and Active Directory
+
+In the context of a computer network, a directory is a hierarchical structure that stores information about objects on the network.
+
+* Active Directory (AD) is a set of directory services developed by Microsoft as part of Windows 2000 for on-premises domain-based networks.
+* The best-known service of this kind is Active Directory Domain Services (AD DS).
+* A server running AD DS is a domain controller (DC).
+* AD DS is a central component in organizations with on-premises IT infrastructure.
+
+AD DS doesn't, however, natively support mobile devices, SaaS applications, or line of business apps that require modern authentication methods.
+
+The growth of cloud services, SaaS applications, and personal devices being used at work, has resulted in the need for modern authentication, and an evolution of Active Directory-based identity solutions.
+
+* Microsoft Entra ID (previously referred to as Azure Active Directory) and part of the Microsoft Entra family of multicloud identity and access solutions, dentity as a Service, IDaaS. 
+
+
+#### Describe the concept of federation
+
+Federation enables the access of services across organizational or domain boundaries by establishing trust relationships between the respective domain’s identity provider.
+
+* With federation, there's no need for a user to maintain a different username and password when accessing resources in other domains.
+
+![Federation](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/federation.jpg)
+
+With federation, trust isn't always bidirectional.
+
+Although IdP-A may trust IdP-B and allow the user in domain B to access the website in domain A, the opposite isn't true, unless that trust relationship is configured.
+
+A common example of federation in practice is when a user logs in to a third-party site with their social media account, such as Twitter. In this scenario, Twitter is an identity provider, and the third-party site might be using a different identity provider, such as Microsoft Entra ID. There's a trust relationship between Microsoft Entra ID and Twitter.
+
+
+### Describe the function and identity types of Microsoft Entra ID
+
+When it comes to security, your organization can no longer rely on its network boundary. To allow employees, partners, and customers to collaborate securely, organizations need to shift to an approach whereby identity becomes the new security perimeter.
+
+#### Describe Microsoft Entra ID
+
+Next
+
+
 
 ## J.S Youtube
 
