@@ -285,14 +285,41 @@ Groups
 
 #### Describe hybrid identity
 
+Microsoft’s identity solutions span on-premises and cloud-based capabilities. These solutions create a common identity for authentication and authorization to all resources, regardless of location. We call this hybrid identity.
+
+* Inter-directory provisioning is provisioning an identity between two different directory services systems. For a hybrid environment, the most common scenario for inter-directory provisioning is when a user already in Active Directory is provisioned into Microsoft Entra ID.
+* Synchronization is responsible for making sure identity information for your on-premises users and groups is matching the cloud
+
+One of the available methods for accomplishing inter-directory provisioning and synchronization is through Microsoft Entra Cloud Sync
+
+The Microsoft Entra Cloud Sync provisioning agent uses the System for Cross-domain Identity Management (SCIM) specification with Microsoft Entra ID to provision and deprovision users and groups.
+
+#### Describe external identities
+
+B2B collaboration
+* typically as guest users.
+
+B2B direct connect
+* new way to collaborate with other Microsoft Entra organizations using Microsoft Teams shared channels.
+* you create two-way trust relationships with other Microsoft Entra organizations to allow users to seamlessly sign in to your shared resources and vice versa.
+* users aren't represented in your Microsoft Entra directory (they aren't added as guests), but they're visible from within the Teams shared channel and can be monitored in Teams admin center reports.
+
+Microsoft Entra External ID for customers (preview)
+* new customer identity and access management (CIAM) solution.
+* This solution is intended for businesses that want to make applications available to their customers using the Microsoft Entra platform for identity and access.
+* sso, sign up and sign in pages for apps, branding to sign in pages, self service account management
+
+Microsoft Entra multi-tenant organization
+* Multi-tenant organizations use a one-way synchronization service in Microsoft Entra ID, called cross-tenant synchronization. Cross-tenant synchronization enables seamless collaboration for a multi-tenant organization.
 
 
+### Describe the authentication capabilities of Microsoft Entra ID
 
+Authentication is the process of verifying an identity to be legitimate. Passwords are commonly used to authenticate users, but there are better and more secure ways to authenticate.
 
+#### Describe authentication methods
 
-
-
-
+next
 
 
 ## J.S Youtube
