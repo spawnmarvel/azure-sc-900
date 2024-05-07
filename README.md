@@ -226,7 +226,72 @@ When it comes to security, your organization can no longer rely on its network b
 
 #### Describe Microsoft Entra ID
 
-Next
+Microsoft Entra ID, formerly Azure Active Directory, is Microsoft’s cloud-based identity and access management service.
+
+Microsoft Entra ID includes an identity secure score, which is a percentage that functions as an indicator for how aligned you are with Microsoft's best practice recommendations for security.
+
+
+Tenant
+
+* - A Microsoft Entra tenant is an instance of Microsoft Entra ID in which information about a single organization resides including organizational objects such as users, groups, devices, and application registrations.
+
+Directory 
+
+* - The terms Microsoft Entra directory and Microsoft Entra tenant are often used interchangeably. The directory is a logical container within a Microsoft Entra tenant that holds and organizes the various resources and objects related to identity and access management including users, groups, applications, devices, and other directory objects.
+
+Multi-tenant 
+
+* - A multi-tenant organization is an organization that has more than one instance of Microsoft Entra ID.
+
+
+#### Describe types of identities
+
+In Microsoft Entra ID, there are different types of identities that are supported. 
+
+* You can assign identities to people (humans).
+* You can assign identities to physical devices, such as mobile phones, desktop computers, and IoT devices.
+* Lastly, you can assign identities to software-based objects, such as applications, virtual machines, services, and containers. These identities are referred to as workload identities.
+
+Workload identities
+
+* A workload identity is an identity you assign to a software workload.
+
+Applications and service principals
+
+* A service principal is essentially, an identity for an application. 
+* For an application to delegate its identity and access functions to Microsoft Entra ID, the application must first be registered with Microsoft Entra ID to enable its integration.
+* Once an application is registered, a service principal is created in each Microsoft Entra tenant where the application is used. The service principal enables core features such as authentication and authorization of the application to resources that are secured by the Microsoft Entra tenant.
+
+Managed identities
+
+* Managed identities are a type of service principal that are automatically managed in Microsoft Entra ID and eliminate the need for developers to manage credentials.
+* System-assigned. Some Azure resources, such as virtual machines, allow you to enable a managed identity directly on the resource.
+* User-assigned. You may also create a managed identity as a standalone Azure resource. Once you create a user-assigned managed identity, you can assign it to one or more instances of an Azure service
+
+
+Device
+
+* Microsoft Entra registered devices. The goal of Microsoft Entra registered devices is to provide users with support for bring your own device (BYOD) or mobile device scenarios.
+* Microsoft Entra joined. A Microsoft Entra joined device is a device joined to Microsoft Entra ID through an organizational account, which is then used to sign in to the device.
+* Microsoft Entra hybrid joined devices. Organizations with existing on-premises Active Directory implementations can benefit from the functionality provided by Microsoft Entra ID by implementing Microsoft Entra hybrid joined devices.
+
+Groups
+
+* Security: A security group is the most common type of group and it's used to manage user and device access to shared resources. (creating securitu groups requires MS entra administrator role)
+* Microsoft 365: A Microsoft 365 group, which is also often referred to as a distribution group, is used for grouping users according to collaboration needs. (shared mailbox, calender, etc)
+
+
+***Groups can be configured to allow members to be assigned, that is manually selected, or they can be configured for dynamic membership. Dynamic membership uses rules to automatically add and remove identities.***
+
+#### Describe hybrid identity
+
+
+
+
+
+
+
+
 
 
 
