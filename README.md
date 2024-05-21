@@ -319,7 +319,15 @@ Authentication is the process of verifying an identity to be legitimate. Passwor
 
 #### Describe authentication methods
 
-next
+Passwords are the most common form of authentication, but they have many problems, especially if used in single-factor authentication, where only one form of authentication is used.
+
+![Federation](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/passwords.jpg)
+
+Phone
+Microsoft Entra ID supports two options for phone-based authentication.
+
+* SMS-based authentication.
+* 
 
 
 ## J.S Youtube
@@ -332,4 +340,5 @@ https://www.youtube.com/watch?v=Bz-8jM3jg-8
 | --- | --- | -------------
 | 1   | 74  | No reading
 | 2   | 54  | In a hurry
-| x   | x   | xxxx
+| 3   | 72   | Read a bit
+| 4   | x   | 
