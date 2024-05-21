@@ -407,5 +407,6 @@ https://www.youtube.com/watch?v=Bz-8jM3jg-8
 | --- | --- | -------------
 | 1   | 74  | No reading
 | 2   | 54  | In a hurry
-| 3   | 72   | Read a bit
-| 4   | x   | 
+| 3   | 72  | Read a bit, a bit course
+| 4   | 60  | Read a bit 2, a bit course
+| 5   | x   | 
