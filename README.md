@@ -326,8 +326,41 @@ Passwords are the most common form of authentication, but they have many problem
 Phone
 Microsoft Entra ID supports two options for phone-based authentication.
 
-* SMS-based authentication.
-* 
+* SMS-based authentication, The user instead enters their registered mobile phone number, receives a text message with a verification code, and enters that in the sign-in interface.
+* Voice call verification, To complete the sign-in process, the user is prompted to press # on their keypad. Voice calls are not supported as a primary form of authentication, in Microsoft Entra ID.
+
+OATH (Open Authentication) is an open standard that specifies how time-based, one-time password (TOTP) codes are generated.
+
+* Software OATH tokens are typically applications. 
+* OATH TOTP hardware tokens (supported in public preview) are small hardware devices that look like a key fob that displays a code that refreshes every 30 or 60 seconds. 
+
+Passwordless authentication
+
+* Windows Hello for Business, This two-factor authentication is a combination of a key or certificate tied to a device and something that the person knows (a PIN) or something that the person is (biometrics).
+* Fast Identity Online (FIDO) is an open standard for passwordless authentication. FIDO allows users and organizations to leverage the standard to sign in to their resources using an external security key or a platform key built into a device, eliminating the need for a username and password. (With FIDO2 security keys, users can sign in to Microsoft Entra ID or Microsoft Entra hybrid joined Windows 10 devices and get single-sign on to their cloud and on-premises resources. )
+* Microsoft Authenticator app
+* Certificate-based authentication
+
+Some authentication methods can be used as the primary factor when you sign in to an application or device. Other authentication methods are only available as a secondary factor when you use Microsoft Entra multifactor authentication or SSPR.
+
+#### Describe multifactor authentication
+
+Multifactor authentication is a process in which users are prompted during the sign-in process for an additional form of identification, such as a code on their cellphone or a fingerprint scan.
+
+MFA
+* Something you know – typically a password or PIN and
+* Something you have – such as a trusted device that's not easily duplicated, like a phone or hardware key or
+* Something you are – biometrics like a fingerprint or face scan.
+
+Security defaults and multifactor authentication
+
+* Security defaults are a set of basic identity security mechanisms recommended by Microsoft.
+* When enabled, these recommendations are automatically enforced in your organization.
+
+
+#### Describe self-service password reset
+
+NEXT
 
 
 ## J.S Youtube
