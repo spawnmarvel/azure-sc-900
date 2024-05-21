@@ -360,8 +360,42 @@ Security defaults and multifactor authentication
 
 #### Describe self-service password reset
 
-NEXT
 
+Self-service password reset (SSPR) is a feature of Microsoft Entra ID that allows users to change or reset their password, without administrator or help desk involvement. SSPR has several key benefits for organizations and users.
+
+
+To use self-service password reset, users must be:
+
+* Assigned a Microsoft Entra ID license. Refer to the Learn More section of the summary and resources unit for a link to the Licensing requirements for Microsoft Entra self-service password reset.
+* Enabled for SSPR by an administrator.
+* Registered, with the authentication methods they want to use. Two or more authentication methods are recommended in case one is unavailable.
+
+Either with mobile app notification, mobile app code, email, mobile phone, office phone, security question.
+
+#### Describe password protection and management capabilities
+
+* reduces the risk of users setting weak passwords.
+* default global banned password lists are automatically applied to all users in a Microsoft Entra tenant. 
+
+Examples of passwords that might be blocked are P@$$w0rd or Passw0rd1 and all variations.
+
+Custom banned password lists
+
+* Brand names
+* Product names
+* Locations, such as company headquarters
+* Company-specific internal terms
+
+Banned password lists are a feature of Microsoft Entra ID P1 or P2 licensing.
+
+Protecting against password spray
+
+Hybrid security, A component installed in the on-premises environment receives the global banned password list and custom password protection policies from Microsoft Entra ID.
+
+
+### Describe access management capabilities of Microsoft Entra ID
+
+NEXT
 
 ## J.S Youtube
 
