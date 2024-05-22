@@ -448,6 +448,17 @@ Available Microsoft 365 services include Microsoft Entra ID, Exchange, SharePoin
 * Service-specific roles: For major Microsoft 365 services, Microsoft Entra ID includes built-in, service-specific roles that grant permissions to manage features within the service. (exchange admin, intune admin, sp admin, teams admin)
 * Cross-service roles: There are some roles within Microsoft Entra ID that span services. ()
 
+Difference between Microsoft Entra RBAC and Azure RBAC
+
+* Microsoft Entra RBAC - Microsoft Entra roles control access to Microsoft Entra resources such as users, groups, and applications.
+* Azure RBAC - Azure roles control access to Azure resources such as virtual machines or storage using Azure Resource Management.
+
+
+
+### Describe the identity protection and governance capabilities of Microsoft Entra
+
+Next
+
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
