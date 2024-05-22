@@ -395,7 +395,58 @@ Hybrid security, A component installed in the on-premises environment receives t
 
 ### Describe access management capabilities of Microsoft Entra ID
 
-NEXT
+Conditional access and how Microsoft Entra roles and role-based access control (RBAC) helps organizations manage and control access.
+
+
+#### Describe Conditional Access
+
+* Conditional Access is implemented through policies that are created and managed in Microsoft Entra ID. 
+* A Conditional Access policy analyses signals including user, location, device, application, and risk to automate decisions for authorizing access to resources (apps and data).
+
+Assignments
+
+* Users and groups assign who the policy will include or exclude. 
+* Cloud apps or actions can include or exclude cloud applications, user actions, or authentication contexts that are subjected to the policy. 
+* Conditions define where and when the policy will apply.
+* * Sign-in risk and user risk.
+* * Devices platform
+* * IP location information
+* * Client apps
+* * Filter for devices
+
+Access controls
+
+* Block access 
+* Grant access
+* Session, block download, cut, copy etc.
+
+
+#### Describe Microsoft Entra roles and role-based access control (RBAC)
+
+Managing access using roles is known as role-based access control (RBAC).
+
+Built in
+
+* Global administrator: users with this role have access to all administrative features in Microsoft Entra.
+* User administrator: users with this role can create and manage all aspects of users and groups.
+* Billing administrator: users with this role make purchases, manage subscriptions and support tickets, and monitor service health.
+
+Custom roles
+
+* Although there are many built-in admin roles in Microsoft Entra, custom roles give flexibility when granting access. A custom role definition is a collection of permissions that you choose from a preset list.
+
+Only grant the access users need
+
+Categories of Microsoft Entra roles
+
+
+Microsoft Entra ID is an available service if you subscribe to any Microsoft Online business offer, such as Microsoft 365 and Azure.
+
+Available Microsoft 365 services include Microsoft Entra ID, Exchange, SharePoint, Microsoft Defender, Teams, Intune, and many more.
+
+* Microsoft Entra specific roles: These roles grant permissions to manage resources within Microsoft Entra-only. 
+* Service-specific roles: For major Microsoft 365 services, Microsoft Entra ID includes built-in, service-specific roles that grant permissions to manage features within the service. (exchange admin, intune admin, sp admin, teams admin)
+* Cross-service roles: There are some roles within Microsoft Entra ID that span services. ()
 
 ## J.S Youtube
 
