@@ -508,7 +508,7 @@ While Azure DDoS Protection services protect customers against DDoS attacks that
 
 #### Describe network segmentation in Azure
 
-next
+Next
 
 
 
@@ -525,3 +525,7 @@ https://www.youtube.com/watch?v=Bz-8jM3jg-8
 | 3   | 72  | Read a bit, a bit course
 | 4   | 60  | Read a bit 2, a bit course
 | 5   | x   | 
+
+
+
+
