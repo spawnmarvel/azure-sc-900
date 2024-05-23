@@ -488,6 +488,20 @@ A common question that is often raised is why consider adding DDos Protection se
 
 #### Describe Azure Firewall
 
+* Any vnet, but best to use on centralized vnet
+* Can scale
+
+Key features
+
+* Built in HA and availability zones
+* Network and application level filtering
+* Outbund SNAT and inbound DNAT
+* Multiple public ip addresses
+* Threat intelligence
+* Integration with Azure monitor
+
+
+
 next
 
 ## J.S Youtube
