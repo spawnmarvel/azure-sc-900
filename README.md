@@ -502,7 +502,15 @@ Key features
 
 #### Describe Web Application Firewall
 
+Web Application Firewall (WAF) provides centralized protection of your web applications from common exploits and vulnerabilities at application layer.
+
+While Azure DDoS Protection services protect customers against DDoS attacks that can occur at the network and transport layers, Azure WAF protects web applications against application-layer DDoS attacks, such as HTTP Floods.
+
+#### Describe network segmentation in Azure
+
 next
+
+
 
 ## J.S Youtube
 
