@@ -508,7 +508,51 @@ While Azure DDoS Protection services protect customers against DDoS attacks that
 
 #### Describe network segmentation in Azure
 
-Next
+Segmentation is about dividing something into smaller pieces.
+
+* The ability to group related assets that are a part of (or support) workload operations.
+* Isolation of resources.
+* Governance policies set by the organization.
+
+Network segmentation also supports the Zero Trust model and a layered approach to security that is part of a defense in depth strategy.
+
+
+Network segmentation can secure interactions between perimeters.
+
+
+#### Describe Azure Network Security Groups
+
+Network security groups (NSGs) let you filter network traffic to and from Azure resources in an Azure virtual network; for example, a virtual machine. 
+
+An NSG consists of rules that define how the traffic is filtered. 
+
+You can associate only one network security group to each virtual network subnet and network interface in a virtual machine. 
+
+The same network security group, however, can be associated to as many different subnets and network interfaces as you choose.
+
+Inbound and outbound security rules
+
+* Name
+* Prioroty
+* Source or destination
+* Protocol
+* Direction
+* Port range
+* Action
+
+Some default AllowVnetInBound (65000), AllowAzureLoadBalancerInBound(65001), DenyAllInBound(65500)
+
+
+***What is the difference between Network Security Groups (NSGs) and Azure Firewall?***
+
+The Azure Firewall service complements network security group functionality. Together, they provide better "defense-in-depth" network security.
+
+NSG = within virtual networks in each subscription
+AFW = across different subscriptions and virtual networks.
+
+
+
+
 
 
 
