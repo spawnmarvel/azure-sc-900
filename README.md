@@ -551,6 +551,41 @@ NSG = within virtual networks in each subscription
 AFW = across different subscriptions and virtual networks.
 
 
+#### Describe Azure Bastion
+
+
+Azure Bastion is a service you deploy that lets you connect to a virtual machine using your browser and the Azure portal. The Azure Bastion service is a fully platform-managed PaaS service that you provision inside your virtual network.
+
+
+Key benefits of Azure Bastion
+
+* RDP / SSH directly in azure portal
+* Remote session over tls and fw traversal RDP/SSH
+* No public IP
+* No hassel managing NSG
+* Protect against port scanning
+* Hardening in one place to protect against zero-day exploits
+
+Azure Bastion has two available SKUs, Basic and Standard. 
+
+
+#### Describe Azure Key Vault
+
+* Secrets management.
+* Key management. 
+* Certificate management
+
+
+
+### Describe the security management capabilities in Azure
+
+Next
+
+
+
+
+
+
 
 
 
