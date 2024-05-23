@@ -500,7 +500,7 @@ Key features
 * Threat intelligence
 * Integration with Azure monitor
 
-
+#### Describe Web Application Firewall
 
 next
 
