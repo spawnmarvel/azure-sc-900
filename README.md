@@ -457,7 +457,38 @@ Difference between Microsoft Entra RBAC and Azure RBAC
 
 ### Describe the identity protection and governance capabilities of Microsoft Entra
 
-Next
+#### Describe Azure DDoS protection
+
+The aim of a Distributed Denial of Service (DDoS) attack is to overwhelm the resources on your applications and servers, making them unresponsive or slow for genuine users.
+
+* Volume attaks
+* Protocol attacks
+* Resource (application) layer attacks
+
+
+What is Azure DDoS Protection?
+
+* Analyze traffic = looks like DDoS?
+* Layer 3 (network), 4 (transport)
+* Always on traffic monitoring
+* Adaptive real time tuning, learning the trffic
+* DDoS protection telemetry, monitoring and alerting
+
+Two tiers
+
+* DDoS network protection, as sku, DDos mitigation, automatically tuned to help in vnet
+* DDoS ip protection, pay per protected ip model. Same as above but differ, does not include DDoS rapid response support, cost protection and disciunt on WAF.
+
+A common question that is often raised is why consider adding DDos Protection services if services running on Azure are inherently protected by the default infrastructure-level DDoS protection? 
+
+* Infrastructure has higher treshold than most apps can handle.
+* and does not have telemetry and alerting
+* 
+
+
+#### Describe Azure Firewall
+
+next
 
 ## J.S Youtube
 
