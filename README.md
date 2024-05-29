@@ -579,7 +579,36 @@ Azure Bastion has two available SKUs, Basic and Standard.
 
 ### Describe the security management capabilities in Azure
 
-Next
+
+#### Describe Microsoft Defender for Cloud
+
+Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) with a set of security measures and practices designed to protect cloud-based applications from various cyber threats and vulnerabilities. 
+
+* A development security operations (DevSecOps) solution that unifies security management at the code level across multicloud and multiple-pipeline environments.
+* A cloud security posture management (CSPM) solution that surfaces actions that you can take to prevent breaches.
+* A cloud workload protection platform (CWPP) with specific protections for servers, containers, storage, databases, and other workloads.
+
+DevSecOps. Defender for Cloud helps you to incorporate good security practices early during the software development process, or DevSecOps.
+
+CSPM. The security of your cloud and on-premises resources depends on proper configuration and deployment. Cloud security posture management (CSPM) assesses your systems and automatically alerts security staff in your IT department when a vulnerability is found.
+
+CWPP. Proactive security principles require that you implement security practices that protect your workloads from threats. Cloud workload protections (CWP) surface workload-specific recommendations that lead you to the right security controls to protect your workloads. 
+
+
+#### Describe how security policies and initiatives improve cloud security posture
+
+Microsoft Defender for Cloud enables organizations to manage the security with It does this by using policy definitions and security initiatives.
+
+* An Azure Policy definition, is a rul.e about specific security conditions that you want controlled
+* A security initiative is a collection of Azure Policy definitions, or rules, grouped together towards a specific goal or purpose. 
+* To implement policy definitions or initiatives, you assign them to any scope of resources that are supported, such as management groups, subscriptions, resource groups, or individual resources.
+
+Microsoft Defender for Cloud applies security initiatives to your subscriptions.
+
+
+
+
+
 
 
 
