@@ -637,7 +637,7 @@ Defender for Cloud periodically analyzes the compliance status of your resources
 
 #### Describe Cloud security posture management
 
-Next
+Next, next
 
 ## J.S Youtube
 
