@@ -615,7 +615,7 @@ Excel sheet
 https://github.com/MicrosoftDocs/SecurityBenchmarks/blob/master/Microsoft%20Cloud%20Security%20Benchmark/Microsoft_cloud_security_benchmark_v1.xlsx
 
 
-![MSCB](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mscb.jpg)
+![Mcsb](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mcsb.jpg)
 
 
 ## J.S Youtube
