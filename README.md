@@ -617,6 +617,14 @@ https://github.com/MicrosoftDocs/SecurityBenchmarks/blob/master/Microsoft%20Clou
 
 ![Mcsb](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mcsb.jpg)
 
+Microsoft cloud security benchmark in Defender for Cloud
+
+Microsoft Defender for Cloud continuously assesses an organization's hybrid cloud environment to analyze the risk factors according to the controls and best practices in the Microsoft cloud security benchmark. 
+
+
+The regulatory compliance dashboard in Microsoft Defender for Cloud reflects the status of your compliance with the MCSB and any other standards that you've applied to your subscriptions.
+
+![Defender](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/defender.jpg)
 
 ## J.S Youtube
 
