@@ -599,25 +599,23 @@ CWPP. Proactive security principles require that you implement security practice
 
 Microsoft Defender for Cloud enables organizations to manage the security with It does this by using policy definitions and security initiatives.
 
-* An Azure Policy definition, is a rul.e about specific security conditions that you want controlled
+* An Azure Policy definition, is a rule about specific security conditions that you want controlled
 * A security initiative is a collection of Azure Policy definitions, or rules, grouped together towards a specific goal or purpose. 
 * To implement policy definitions or initiatives, you assign them to any scope of resources that are supported, such as management groups, subscriptions, resource groups, or individual resources.
 
 Microsoft Defender for Cloud applies security initiatives to your subscriptions.
 
 
+***Microsoft cloud security benchmark***
+
+The Microsoft cloud security benchmark (MCSB) is a Microsoft-authored set of guidelines for security and compliance that provides best practices and recommendations to help improve the security of workloads, data, and services on Azure and your multicloud environment. 
+
+Excel sheet
+
+https://github.com/MicrosoftDocs/SecurityBenchmarks/blob/master/Microsoft%20Cloud%20Security%20Benchmark/Microsoft_cloud_security_benchmark_v1.xlsx
 
 
-
-
-
-
-
-
-
-
-
-
+![MSCB](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mscb.jpg)
 
 
 ## J.S Youtube
