@@ -635,6 +635,9 @@ Defender for Cloud periodically analyzes the compliance status of your resources
 
 ![My Cost](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mycost.jpg)
 
+#### Describe Cloud security posture management
+
+next
 
 ## J.S Youtube
 
