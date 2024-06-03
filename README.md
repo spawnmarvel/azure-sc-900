@@ -626,6 +626,16 @@ The regulatory compliance dashboard in Microsoft Defender for Cloud reflects the
 
 ![Defender](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/defender.jpg)
 
+Recommendations are the result of assessing your resources against the relevant policies and identifying resources that aren't meeting your defined requirements.
+
+Defender for Cloud periodically analyzes the compliance status of your resources to identify potential security misconfigurations and weaknesses.
+
+
+***Calculate my cost***
+
+![My Cost](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/mycost.jpg)
+
+
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
