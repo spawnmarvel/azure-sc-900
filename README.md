@@ -720,6 +720,49 @@ Microsoft Sentinel helps enable end-to-end security operations, in a modern Secu
 * Notebooks
 * Community and Content Hub
 
+#### Describe Microsoft Security Copilot
+
+Organizations need to work at machine speed.
+
+Microsoft Security Copilot is the first and only generative AI security product to help defend organizations at machine speed and scale. 
+
+It's an AI-powered security analysis tool that enables analysts to respond to threats quickly, process signals at machine speed, and assess risk exposure in minutes.
+
+
+### Describe threat protection with Microsoft Defender XDR
+
+Security threat prevention isn't limited to just network security. It also covers applications, email, collaborations, endpoints, cross SaaS solutions, identity, and more.
+
+#### Describe Microsoft Defender XDR (extended detection and response) services
+
+Microsoft Defender XDR is an enterprise defense suite that protects against sophisticated cyberattacks. With Microsoft Defender XDR, you can natively coordinate the detection, prevention, investigation, and response to threats across endpoints, identities, email, and applications.
+
+Microsoft Defender XDR suite protects:
+
+* Endpoints with Microsoft Defender for Endpoint
+* Assets with Defender Vulnerability Management
+* Email and collaboration with Microsoft Defender for Office 365
+* Identities with Microsoft Defender for Identity
+* Applications with Microsoft Defender for Cloud Apps
+
+
+#### Describe Microsoft Defender for Office 365
+
+Microsoft Defender for Office 365 is a seamless integration into your Office 365 subscription that provides protection against threats, like phishing and malware that arrive in email links (URLs), attachments, or collaboration tools like SharePoint, Teams, and Outlook.
+
+Microsoft Defender for Office 365 safeguards organizations against malicious threats by providing admins and security operations (sec ops) teams a wide range of capabilities.
+
+* Preset security policies: Preset security policies allow you to apply protection features to users based on Microsoft recommended settings.
+* Threat protection policies: Define threat protection policies to set the appropriate level of protection for your organization.
+* Reports
+* Threat investigation and response capabilities: Use leading-edge tools to investigate, understand, simulate, and prevent threats.
+* Automated investigation and response capabilities
+
+
+#### Describe Microsoft Defender for Endpoint
+
+next
+
 
 ## J.S Youtube
 
