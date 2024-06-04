@@ -637,7 +637,14 @@ Defender for Cloud periodically analyzes the compliance status of your resources
 
 #### Describe Cloud security posture management
 
-Next, next
+One of Microsoft Defender for Cloud's main pillars for cloud security is Cloud Security Posture Management (CSPM).
+
+* CSPM provides you with hardening guidance that helps you efficiently and effectively improve your security. 
+* CSPM also gives you visibility into your current security situation.
+* Secure score
+* Hardening recommendations
+
+![CSPM](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/cspm.jpg)
 
 ## J.S Youtube
 
