@@ -703,6 +703,24 @@ It provides a single solution for alert detection, threat visibility, proactive 
 
 ![Sentinel](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/sentinel.jpg)
 
+* Collect data
+* Detect
+* Investigate
+* Respond
+
+Microsoft Sentinel helps enable end-to-end security operations, in a modern Security Operations Center (SOC). Listed below are some of the key features of Microsoft Sentinel.
+
+* Connect Sentinel to your data
+* Workbooks, monitor
+* Analytics
+* Incident management
+* Security automation and orchestration with playbooks
+* Investigation
+* Hunting (based on the MITRE framework (a global database of adversary tactics and techniques))
+* Notebooks
+* Community and Content Hub
+
+
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
