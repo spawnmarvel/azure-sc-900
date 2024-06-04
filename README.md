@@ -646,6 +646,59 @@ One of Microsoft Defender for Cloud's main pillars for cloud security is Cloud S
 
 ![CSPM](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/cspm.jpg)
 
+
+#### Describe the enhanced security of Microsoft Defender for Cloud
+
+A pillar of cloud security is cloud workload protection.
+
+Microsoft Defender for Cloud includes a range of advanced intelligent protections for your workloads.
+
+Defender plans:
+
+* Microsoft Defender for servers
+* Microsoft Defender for App Service
+* Microsoft Defender for Storage
+* etc
+
+Enhanced security features
+
+* Comprehensive endpoint detection and response 
+* Vulnerability scanning for virtual machines, container registries, and SQL resources
+* Multicloud security
+* Hybrid security
+* Threat protection alerts
+* Track compliance with a range of standards
+* Access and application controls
+
+#### Describe DevOps security management
+
+DevOps combines development (Dev) and operations (Ops) to unite people, process, and technology in application planning, development, delivery, and operations. 
+
+Defender for DevOps uses a central console to empower security teams with the ability to protect applications and resources from code to cloud across multi-pipeline environments, such as GitHub and Azure DevOps.
+
+* Unified visibility into DevOps security posture: Security administrators now have full visibility into DevOps inventory and the security posture of preproduction application code.
+* Strengthen cloud resource configurations throughout the development lifecycle: You can enable security of Infrastructure as Code (IaC) templates
+* Prioritize remediation of critical issues in code: Apply comprehensive code to cloud contextual insights within Defender for Cloud.
+
+### Describe security capabilities of Microsoft Sentinel
+
+Microsoft Sentinel provides a single solution for alert detection, threat visibility, proactive hunting, and threat response.
+
+#### Define the concepts of SIEM and SOAR
+
+Security information event management (SIEM)
+
+* A SIEM system is a tool that an organization uses to collect data from across the whole estate, including infrastructure, software, and resources. It does analysis, looks for correlations or anomalies, and generates alerts and incidents.
+
+security orchestration automated response (SOAR)
+
+* A SOAR system takes alerts from many sources, such as a SIEM system. The SOAR system then triggers action-driven automated workflows and processes to run security tasks that mitigate the issue.
+
+
+#### Describe threat detection and mitigation capabilities in Microsoft Sentinel
+
+
+
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
