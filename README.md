@@ -697,7 +697,11 @@ security orchestration automated response (SOAR)
 
 #### Describe threat detection and mitigation capabilities in Microsoft Sentinel
 
+Microsoft Sentinel is a scalable, cloud-native SIEM/SOAR solution that delivers intelligent security analytics and threat intelligence across the enterprise.
 
+It provides a single solution for alert detection, threat visibility, proactive hunting, and threat response.
+
+![Sentinel](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/sentinel.jpg)
 
 ## J.S Youtube
 
