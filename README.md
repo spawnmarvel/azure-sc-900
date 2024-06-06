@@ -2,6 +2,11 @@
 
 ## MS Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
+
+https://learn.microsoft.com/en-us/training/courses/sc-900t00#course-syllabus
+
+## Exam practice
+
 https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification
 
 ### Describe security and compliance concepts
