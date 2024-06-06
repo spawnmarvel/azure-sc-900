@@ -613,6 +613,70 @@ These reports are the risky users, risky sign-ins, and risk detections.
 
 ![security report](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/securityreport.jpg)
 
+Remediate
+
+After completing an investigation, admins will want to take action to remediate the risk or unblock users. 
+
+Organizations can enable automated remediation using their risk policies.
+
+Export
+
+Data from Identity Protection can be exported to other tools for archive, further investigation, and correlation. 
+
+The Microsoft Graph based APIs allow organizations to collect this data for further processing in tools such as a SIEM. 
+
+The data can also be sent to a Log Analytics workspace, archived data to a storage account, streamed to Event Hubs, or solutions.
+
+
+Workload identity
+
+* now extending these capabilities to workload identities to protect applications and service principals.
+
+#### Describe Microsoft Entra Permissions Management
+
+
+Microsoft Entra Permissions Management is a cloud infrastructure entitlement management (CIEM) product that provides comprehensive visibility and control over permissions for any identity and any resource in Microsoft Azure, Amazon Web Services (AWS) and Google Cloud Platform (GCP).
+
+
+This functionality helps organizations address the Zero Trust principle of least privilege access. 
+
+Some of the key reasons include:
+
+* Organizations are increasingly adopting multicloud strategy
+* With the proliferation of identities and cloud services, the number of high-risk cloud permissions is exploding, expanding the attack surface for organizations.
+* IT security teams are under increased pressure to ensure access to their expanding cloud estate is secure and compliant.
+* The inconsistency of cloud providers' native access management models makes it even more complex for Security and Identity to manage permissions and enforce least privilege access policies across their entire environment.
+
+Permissions Management detects, automatically right-sizes (remediates), and continuously monitors unused and excessive permissions.
+
+
+Discover
+
+Customers can assess permission risks by evaluating the gap between permissions granted and permissions used.
+
+Remediate
+
+Customers can right-size permissions based on usage, grant new permissions on-demand, and automate just-in-time access for cloud resources.
+
+Monitor
+
+Customers can detect anomalous activities with machine learning-powered (ML-powered) alerts and generate detailed forensic reports.
+
+#### Describe Microsoft Entra Verified ID
+
+Microsoft Entra Verified ID is a managed verifiable credentials service based on open standards. Verified ID automates verification of identity credentials and enables privacy-protected interactions between organizations and users.
+
+
+Why do we need it?
+
+* ...transactions are increasingly done over the web and often require individuals to make claims or assertions that organizations can digitally verify.
+* A digital credential serves as a digital identity. 
+* ...it’s hard to retain control of your identity once you've shared it in exchange for access to a service.
+* Individuals and businesses need a way to express their qualifications and/or personal information, that is, our digital identities, over the web in a manner that is cryptographically secure, compliant to privacy requirements, and machine readable for verification.
+
+Verifiable credentials help address these challenges.
+
+
 ## 3 Describe the capabilities of Microsoft security solutions
 
 ### Describe core infrastructure security services in Azure
@@ -646,7 +710,7 @@ A common question that is often raised is why consider adding DDos Protection se
 
 * Infrastructure has higher treshold than most apps can handle.
 * and does not have telemetry and alerting
-* 
+
 
 
 #### Describe Azure Firewall
@@ -925,6 +989,8 @@ Microsoft Defender for Office 365 safeguards organizations against malicious thr
 #### Describe Microsoft Defender for Endpoint
 
 next
+
+https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/4-describe-defender-endpoint
 
 
 ## J.S Youtube
