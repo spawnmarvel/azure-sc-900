@@ -460,7 +460,14 @@ Difference between Microsoft Entra RBAC and Azure RBAC
 
 
 
-### Describe the identity protection and governance capabilities of Microsoft Entra
+### Describe the identity protection and governance capabilities of Microsoft Entra TODO
+
+https://learn.microsoft.com/en-us/training/modules/describe-identity-protection-governance-capabilities/
+
+### Describe core infrastructure security services in Azure
+
+https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/
+
 
 #### Describe Azure DDoS protection
 
