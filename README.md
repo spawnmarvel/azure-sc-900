@@ -9,6 +9,10 @@ https://learn.microsoft.com/en-us/training/courses/sc-900t00#course-syllabus
 
 https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification
 
+## 1 Describe the concepts of security, compliance, and identity
+
+https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/
+
 ### Describe security and compliance concepts
 
 #### Describe the shared responsibility model
@@ -224,6 +228,7 @@ Although IdP-A may trust IdP-B and allow the user in domain B to access the webs
 
 A common example of federation in practice is when a user logs in to a third-party site with their social media account, such as Twitter. In this scenario, Twitter is an identity provider, and the third-party site might be using a different identity provider, such as Microsoft Entra ID. There's a trust relationship between Microsoft Entra ID and Twitter.
 
+## 2 Describe the capabilities of Microsoft Entra
 
 ### Describe the function and identity types of Microsoft Entra ID
 
@@ -402,7 +407,6 @@ Hybrid security, A component installed in the on-premises environment receives t
 
 Conditional access and how Microsoft Entra roles and role-based access control (RBAC) helps organizations manage and control access.
 
-
 #### Describe Conditional Access
 
 * Conditional Access is implemented through policies that are created and managed in Microsoft Entra ID. 
@@ -460,9 +464,156 @@ Difference between Microsoft Entra RBAC and Azure RBAC
 
 
 
-### Describe the identity protection and governance capabilities of Microsoft Entra TODO
+### Describe the identity protection and governance capabilities of Microsoft Entra
 
-https://learn.microsoft.com/en-us/training/modules/describe-identity-protection-governance-capabilities/
+
+Identity governance is about balancing identity security with user productivity in a way that can be justified and audited.
+
+#### Describe Microsoft Entra ID Governance
+
+Microsoft Entra ID Governance allows you to balance your organization's need for security and employee productivity with the right processes and visibility.
+
+ID Governance gives organizations the ability to do the following tasks:
+
+* Govern the identity lifecycle.
+* Govern access lifecycle.
+* Secure privileged access for administration.
+
+It's intended to help organizations address these four key questions:
+
+* Which users should have access to which resources?
+* What are those users doing with that access?
+* Are there effective organizational controls for managing access?
+* Can auditors verify that the controls are working?
+
+Identity lifecycle
+
+* When planning identity lifecycle management for employees, for example, many organizations model the "join, move, and leave" process.
+* Microsoft Entra ID P1 or P2 offers integration with cloud-based HR systems. When a new employee is added to an HR system, Microsoft Entra ID can create a corresponding user account.
+
+Access lifecycle is the process of managing access throughout the user’s organizational life. Users require different levels of access from the point at which they join an organization to when they leave it. 
+
+* Organizations can automate the access lifecycle process through technologies such as dynamic groups. Dynamic groups enable admins to create attribute-based rules to determine membership of groups.
+
+Privileged access lifecycle
+
+* Monitoring privileged access is a key part of identity governance.
+* Microsoft Entra Privileged Identity Management (PIM) provides extra controls tailored to securing access rights. 
+
+#### Describe access reviews
+
+Microsoft Entra access reviews enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignment.
+
+There are many use cases in which access reviews should be used, here are just a few examples.
+
+* Too many users in privileged roles:
+* Business critical data access
+* To maintain a policy's exception list
+* Ask group owners to confirm they still need guests in their groups
+* Have reviews recur periodically
+
+Manage user and guest user access with access reviews
+
+* With access reviews, you can easily ensure that users or guests have appropriate access.
+
+Multi-stage access reviews
+
+* Microsoft Entra access reviews support up to three review stages, in which multiple types of reviewers engage in determining who still needs access to company resources.
+
+#### Describe entitlement management
+
+Entitlement management is an identity governance feature that enables organizations to manage the identity and access lifecycle at scale.
+
+Entitlement management automates access request workflows, access assignments, reviews, and expiration.
+
+* Users may not know what access they should have, and even if they do, they might have difficulty locating the right individuals to approve it.
+* When users find and receive access to a resource, they may hold on to access longer than is required for business purposes.
+* Managing access for external users.
+
+Entitlement management includes the following capabilities to address these challenges:
+
+* Delegate the creation of access packages to non-administrators.
+* Managing external users.
+
+Microsoft Entra terms of use
+
+* Microsoft Entra terms of use allow information to be presented to users, before they access data or an application. 
+* Terms of use ensure users read relevant disclaimers for legal or compliance requirements.
+
+Example use cases where employees or guests may be required to accept terms of use include:
+
+* Before they access sensitive data or an application.
+* On a recurring schedule, so they're reminded of regulations.
+* Based on user attributes, such as terms applicable to certain roles.
+* Presenting terms for all users in your organization.
+
+#### Describe the capabilities of Privileged identity Management
+
+Privileged Identity Management (PIM) is a service of Microsoft Entra ID that enables you to manage, control, and monitor access to important resources in your organization.
+
+PIM is:
+
+* Just in time, providing privileged access only when needed, and not before.
+* Time-bound, by assigning start and end dates that indicate when a user can access resources.
+* Approval-based, requiring specific approval to activate privileges.
+* Visible, sending notifications when privileged roles are activated.
+* Auditable, allowing a full access history to be downloaded.
+
+General workflow
+
+These steps are: assign, activate, approve/deny, and extend/renew.
+
+* Assign - The assignment process starts by assigning roles to members.
+* Activate - If users have been made eligible for a role, then they must activate the role assignment before using the role.
+* Approve or deny - Delegated approvers receive email notifications when a role request is pending their approval.
+* Extend and renew - When a role assignment nears expiration, the user can use PIM to request an extension for the role assignment.
+
+
+Audit
+
+* Privileged Identity Management (PIM) audit history to see all role assignments and activations within the past 30 days for all privileged roles.
+
+#### Describe Microsoft Entra ID Protection
+
+Identity Protection is a tool that allows organizations to accomplish three key tasks:
+
+* Automate the detection and remediation of identity-based risks.
+* Investigate risks using data in the portal.
+* Export risk detection data to third-party utilities for further analysis.
+
+
+Detect risks
+
+With Identity Protection, risk can be detected at the user and sign-in level, can be categorized as low, medium, or high, and may be calculated in real-time or offline.
+
+* Anonymous IP address
+* Atypical travel
+* Unfamiliar sign-in properties
+* Microsoft Entra threat intelligence
+
+Here are just a few examples of some of the user risks that Identity Protection in Microsoft Entra ID is able to identify:
+
+* Anomalous user activity
+* User reported suspicious activity
+* Leaked credentials
+* Microsoft Entra threat intelligence
+
+Investigate risks
+
+Identity Protection provides organizations with three reports that they can use to investigate identity risks in their environment. 
+
+These reports are the risky users, risky sign-ins, and risk detections. 
+
+
+* Risk detections: Each risk detected is reported as a risk detection.
+* Risky sign-ins: A risky sign-in is reported when there are one or more risk detections reported for that sign-in.
+* Risky users: A Risky user is reported when either or both of the following are true:
+* * The user has one or more Risky sign-ins.
+* * One or more risk detections have been reported.
+
+![security report](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/securityreport.jpg)
+
+## 3 Describe the capabilities of Microsoft security solutions
 
 ### Describe core infrastructure security services in Azure
 
