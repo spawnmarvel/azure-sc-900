@@ -19,3 +19,8 @@ https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-me
 
 https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-concepts/7-knowledge-check
 
+
+
+## APPLIED SKILLS Configure SIEM security operations using Microsoft Sentinel
+
+https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/

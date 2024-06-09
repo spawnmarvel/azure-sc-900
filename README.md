@@ -988,9 +988,42 @@ Microsoft Defender for Office 365 safeguards organizations against malicious thr
 
 #### Describe Microsoft Defender for Endpoint
 
-next
 
-https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/4-describe-defender-endpoint
+Microsoft Defender for Endpoint is a platform designed to help enterprise networks protect 
+
+* endpoints including laptops, phones, tablets, PCs, access points, routers, and firewalls. 
+
+It does so by preventing, detecting, investigating, and responding to advanced threats.
+
+
+#### Describe Microsoft Defender for Cloud Apps
+
+Software as a service (SaaS) apps are ubiquitous across hybrid work environments. Protecting SaaS apps and the important data they store is a significant challenge for organizations. 
+
+Microsoft Defender for Cloud Apps delivers full protection for SaaS applications
+
+* Fundamental cloud access security broker (CASB) functionality. A CASB acts as a gatekeeper to broker real-time access between your enterprise users and the cloud resources they use.
+* SaaS Security Posture Management (SSPM) features, enabling security teams to improve the organization’s security posture
+* Advanced threat protection, as part of Microsoft's extended detection and response (XDR) solution, enabling powerful correlation of signal and visibility across the full kill chain of advanced attacks
+* App-to-app protection, extending the core threat scenarios to OAuth-enabled apps that have permissions and privileges to critical data and resources.
+
+
+Information protection
+
+Defender for Cloud Apps connects to SaaS apps to scan for files containing sensitive data uncovering which data is stored where and who is accessing it.
+
+* Apply a sensitivity label
+* Block downloads to an unmanaged device
+* Remove external collaborators on confidential files
+
+SaaS Security Posture Management (SSPM)
+
+Defender for Cloud Apps automatically provides SSPM data in Microsoft Secure Score, for any supported and connected app.
+
+#### Describe Microsoft Defender for Identity
+
+https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/6-describe-defender-identity
+
 
 
 ## J.S Youtube
