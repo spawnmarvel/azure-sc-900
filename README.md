@@ -1022,7 +1022,28 @@ Defender for Cloud Apps automatically provides SSPM data in Microsoft Secure Sco
 
 #### Describe Microsoft Defender for Identity
 
-https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/6-describe-defender-identity
+Microsoft Defender for Identity is a cloud-based security solution. It uses your on-premises Active Directory data (called signals) to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
+
+* Monitor users, entity behavior, and activities with learning-based analytics.
+* Protect user identities and credentials stored in Active Directory
+* Identify and investigate suspicious activities and advanced attacks across the * cyberattack kill-chain.
+* Provide clear incident information on a simple timeline for fast triage
+
+
+#### Describe Microsoft Defender Vulnerability Management
+
+Defender Vulnerability Management delivers asset visibility, intelligent assessments, and built-in remediation tools for Windows, macOS, Linux, Android, iOS, and network devices.
+
+* Continuous asset discovery and monitoring
+* Risk-based intelligent prioritization.
+* * focuses on emerging threats to align the prioritization of security recommendations with vulnerabilities currently being exploited in the wild and emerging threats that pose the highest risk.
+* Remediation and tracking
+* Dashboard insights
+
+
+#### Describe Microsoft Defender Threat Intelligence
+
+https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/6b-describe-defender-threat-intelligence
 
 
 
