@@ -1144,10 +1144,19 @@ Priva Privacy Risk Management
 
 ![Purview](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/purview.jpg)
 
+The overview dashboard provides an overall view into your organization’s data in Microsoft 365. Privacy administrators can monitor trends and activities, identify and investigate potential risks involving personal data, and springboard into key activities like policy management or subject rights request actions.
+
 Priva Subject Rights Requests
 
 * which provides automation and workflow tools for fulfilling data requests.
+* In accordance with certain privacy regulations around the world, individuals (or data subjects) may make requests to review or manage the personal data about themselves that companies have collected.
+* These requests are sometimes also referred to as data subject requests (DSRs), data subject access requests (DSARs), or consumer rights requests. 
+* For companies that store large amounts of information, finding the relevant data can be a formidable task.
 
+
+#### Describe the compliance management capabilities in Microsoft Purview
+
+https://learn.microsoft.com/en-us/training/modules/describe-compliance-management-capabilities-microsoft-365/
 
 
 
