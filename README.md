@@ -1043,7 +1043,112 @@ Defender Vulnerability Management delivers asset visibility, intelligent assessm
 
 #### Describe Microsoft Defender Threat Intelligence
 
-https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/6b-describe-defender-threat-intelligence
+Microsoft Defender Threat Intelligence (Defender TI) helps 
+
+* Streamline security analyst triage
+* Incident response
+* Threat hunting 
+* Vulnerability management workflows. 
+* Defender TI aggregates and enriches critical threat information in an easy-to-use interface.
+* From TI home page analysts can quickly scan new featured articles and begin their intelligence gathering, triage, incident response, and hunting efforts by performing a keyword, artifact or Common Vulnerabilities
+* and Exposure ID (CVE-ID) search.
+
+Defender TI articles
+
+* Articles are narratives by Microsoft that provide insight into threat actors, tooling, attacks, and vulnerabilities. 
+* they also link to actionable content and key indicators of compromise to help users take action.
+
+Vulnerability articles
+
+* Defender TI offers CVE-ID searches to help users identify critical information about the CVE. 
+* CVE-ID searches result in Vulnerability Articles.
+
+Data sets
+
+* Microsoft centralizes numerous data sets into a single platform, Defender TI.
+* Making it easier for Microsoft’s community and customers to conduct infrastructure analysis. 
+* Microsoft’s primary focus is to provide as much data as possible about Internet infrastructure to support a variety of security use cases.
+
+This internet data is categorized into two distinct groups
+
+* Traditional data sets include Resolutions, WHOIS, SSL Certificates, Subdomains, DNS, Reverse DNS, and Services.
+* Advanced data sets include Trackers, Components, Host Pairs, and Cookies. Trackers, Components, Host Pairs, and Cookies data sets are collected from observing the Document Object Model (DOM) of web pages crawled.
+
+
+#### Describe the Microsoft Defender portal
+
+The Microsoft Defender portal combines protection, detection, investigation, and response to devices, identities, endpoints, email & collaboration, and cloud apps, in a central place.
+
+* The Microsoft Defender portal home page shows many of the common cards that security teams need.
+* Microsoft Defender portal uses role-based access control
+*  Customization is specific to the individual admin, so other admins won’t see these changes.
+* The left navigation pane provides security professionals easy access to the suite of Microsoft Defender XDR services, including Defender for Identity, Defender for Office 365, Defender for Endpoints, and Defender for Cloud Apps, which were described in the previous units. 
+* Incidents and alerts
+* Hunting, You can build custom detection rules and hunt for specific threats in your environment. 
+
+
+Threat Intelligence
+
+* Threat Analytics, Threat analytics is our in-product threat intelligence solution from expert Microsoft security researchers.
+* Intel Profiles, Intel profiles is a new feature that introduces curated content organized by threat actors, their tools and known vulnerabilities
+* Intel Explorer - Through Intel Explorer you access the existing Defender Threat Intelligence content described in the previous unit.
+
+### Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft compliance solutions
+
+
+#### Describe Microsoft’s Service Trust portal and privacy capabilities
+
+The Microsoft Service Trust Portal provides a variety of content, tools, and other resources about Microsoft security, privacy, and compliance practices.
+
+Describe the offerings of the Service Trust portal
+
+The Service Trust Portal (STP) is Microsoft's public site for publishing audit reports and other compliance-related information associated with Microsoft’s cloud services.
+
+https://servicetrust.microsoft.com/
+
+Service Trust Portal Content Categories
+
+* Certifications, Regulations, and Standards
+* * ... information with the goal of making it easier for you to meet regulatory compliance objectives by understanding how Microsoft Cloud services keep your data secure.
+* Reports, Whitepapers, and Artifacts
+* * ... BCP and DR - Business Continuity and Disaster Recovery, Pen Test and Security Assessments, privacy, data protection, faq and whitepapers.
+* Industry and Regional Resources
+* * Financial services, health and life science, media, USA government, regional.
+* Resources for your Organization
+* * This section lists documents applying to your organization (restricted by tenant) based on your organization’s subscription and permissions.
+
+
+#### Describe Microsoft's privacy principles
+
+
+Microsoft's approach to privacy is built on the following six principles:
+
+* Control, Your data is your business.
+* Transparency, We only process your data based on your agreement and in accordance with the strict policies and procedures that we've contractually agreed to.
+* Security, Microsoft protects your data both at rest and in transit.
+* Strong legal protections, Respecting local privacy laws and fighting for legal protection of privacy as a fundamental human right.
+* No content-based targeting, Not using email, chat, files, or other personal content to target advertising.
+* Benefits to you, Troubleshooting, Feature improvement, Personalized customer experience.
+
+
+#### Describe Microsoft Priva
+
+... privacy by default
+
+Priva's capabilities are available through two solutions: 
+ 
+Priva Privacy Risk Management
+* which provides visibility into your organization's data and policy templates for reducing risks.
+* understand the data your organization stores by automating discovery of personal data assets and providing visualizations of essential information.
+* These visualizations can be found on the overview and data profile pages, currently accessible through the Microsoft Purview compliance portal.
+
+![Purview](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/purview.jpg)
+
+Priva Subject Rights Requests
+
+* which provides automation and workflow tools for fulfilling data requests.
+
+
 
 
 
