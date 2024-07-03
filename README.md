@@ -1093,10 +1093,10 @@ Threat Intelligence
 * Intel Profiles, Intel profiles is a new feature that introduces curated content organized by threat actors, their tools and known vulnerabilities
 * Intel Explorer - Through Intel Explorer you access the existing Defender Threat Intelligence content described in the previous unit.
 
-### Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft compliance solutions
+## 4 Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft compliance solutions
 
 
-#### Describe Microsoft’s Service Trust portal and privacy capabilities
+### Describe Microsoft’s Service Trust portal and privacy capabilities
 
 The Microsoft Service Trust Portal provides a variety of content, tools, and other resources about Microsoft security, privacy, and compliance practices.
 
@@ -1178,6 +1178,77 @@ Navigation
 * Data Classification
 
 #### Describe Compliance Manager
+
+Compliance Manager helps simplify compliance and reduce risk by providing:
+
+* Prebuilt assessments based on common regional and industry regulations and standards. Admins can also use custom assessment to help with compliance needs unique to the organization.
+* Workflow capabilities that enable admins to efficiently complete risk assessments for the organization.
+* Step-by-step improvement actions that admins can take to help meet regulations and standards relevant to the organization.
+* Compliance score
+
+Controls
+
+A control is a requirement of a regulation, standard, or policy.
+
+Compliance Manager tracks the following types of controls:
+
+* Microsoft-managed controls: controls for Microsoft cloud services, which Microsoft is responsible for implementing.
+* Your controls: sometimes referred to as customer-managed controls, these are implemented and managed by the organization.
+* Shared controls: responsibility for implementing these controls is shared by the organization and Microsoft.
+
+Assessments
+
+An assessment is a grouping of controls from a specific regulation, standard, or policy.
+
+Templates
+
+Compliance Manager provides templates to help admins to quickly create assessments. 
+
+Improvement actions
+
+Improvement actions help centralize compliance activities. Each improvement action provides recommended guidance that's intended to help organizations to align with data protection regulations and standards. 
+
+Benefits of Compliance Manager
+Compliance Manager provides many benefits, including:
+
+* Translating complicated regulations, standards, company policies, or other control frameworks into a simple language.
+* Providing access to a large variety of out-of-the-box assessments and custom assessments to help organizations with their unique compliance needs.
+* Mapping regulatory controls against recommended improvement actions.
+* Providing step-by-step guidance on how to implement the solutions to meet regulatory requirements.
+* Helping admins and users to prioritize actions that will have the highest impact on their organizational compliance by associating a score with each action.
+
+
+#### Describe use and benefits of compliance score
+
+Compliance score measures progress in completing recommended improvement actions within controls.
+
+What is the difference between Compliance Manager and compliance score?
+
+Compliance Manager is an end-to-end solution in the Microsoft Purview compliance portal to enable admins to manage and track compliance activities. 
+
+Compliance score is a calculation of the overall compliance posture across the organization. 
+
+The compliance score is available through Compliance Manager.
+
+### Describe information protection, data lifecycle management, and data governance capabilities in Microsoft Purview
+
+Microsoft Purview is a comprehensive set of solutions that help you govern, protect, and manage your entire data estate, providing unified data governance and risk management for your organization.
+
+
+Organizations need to find, classify, and protect all types of information, including financial and personal data. This must be done to ensure customers, employees, and the organization are protected from risks, while still being able to find and access the data they need.
+
+#### Know your data, protect your data, and govern your data
+
+* Microsoft Purview, It provides the tools to know your data, protect your data, and prevent data loss.
+* It gives organizations the capabilities to govern their data, for compliance or regulatory requirements.
+
+* Know your data, Capabilities and tools such as trainable classifiers, activity explorer, and content explorer allow organizations to know their data.
+* Protect your data, encryption, access restrictions, and visual markings.
+* Prevent data loss, detect risky behavior and prevent accidental oversharing of sensitive information.
+* Govern your data, automatically keep, delete, and store data and records in a compliant manner.
+
+
+#### Describe the data classification capabilities of the compliance portal
 
 
 ## J.S Youtube

@@ -1,7 +1,7 @@
 ## SC-900 in a nutshell
 
 
-## Knowledge check 1
+## Knowledge check 
 
 * In the shared responsibility model, the customer organization always has responsibility for their data, including information and data relating to employees, devices, and accounts and identities.
 * Multifactor authentication is an example of defense in-depth at the identity and access layer.
@@ -11,7 +11,7 @@
 https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-methodologies/7-knowledge-check
 
 
-## Knowledge check 2
+## Knowledge check 
 
 * With single sign-on, a user signs in once and can then access a number of applications or resources.
 * Federated services use a trust relationship to allow access to resources.
@@ -20,6 +20,13 @@ https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-me
 https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-concepts/7-knowledge-check
 
 
+## Knowledge check 
+
+* Which of the following roles could the admin use to access the compliance portal? Compliance Administrator role
+* How would the concept of shared controls be explained with Compliance manager?  Controls that you and MS share responsibility for implementing
+* What is the difference between Compliance Manager and compliance score? CM = end-to-end solution, CS is a calulation within CM.
+
+https://learn.microsoft.com/en-us/training/modules/describe-compliance-management-capabilities-microsoft-365/5-knowledge-check
 
 ## APPLIED SKILLS Configure SIEM security operations using Microsoft Sentinel
 
