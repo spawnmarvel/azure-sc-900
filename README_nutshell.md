@@ -41,3 +41,7 @@ https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-secu
 
 https://learn.microsoft.com/en-us/purview/create-microsoft-purview-portal
 
+
+
+## Remember this, abbreviation and words
+
