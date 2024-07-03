@@ -1247,8 +1247,68 @@ Organizations need to find, classify, and protect all types of information, incl
 * Prevent data loss, detect risky behavior and prevent accidental oversharing of sensitive information.
 * Govern your data, automatically keep, delete, and store data and records in a compliant manner.
 
-
 #### Describe the data classification capabilities of the compliance portal
+
+![Data classification](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/data_classification.jpg)
+
+
+Microsoft Purview provides three ways of identifying items so that they can be classified:
+
+* manually by users
+* automated pattern recognition, like sensitive information types
+* machine learning
+
+
+Sensitive information types
+
+* Sensitive information types (SIT) are pattern-based classifiers.
+* example, 123-456-789-ABC
+
+Microsoft Purview includes many built-in sensitive information types based on patterns that are defined by a regular expression (regex) or a function.
+
+Examples include:
+
+* Credit card numbers
+* Passport or identification numbers
+* Bank account numbers
+* Health service numbers
+* Microsoft Purview also supports the ability to create custom sensitive information types
+
+
+Trainable classifiers
+
+* Trainable classifiers use artificial intelligence and machine learning to intelligently classify your data. 
+* They're most useful classifying data unique to an organization like specific kinds of contracts, invoices, or customer records.
+
+Pre-trained classifiers - Microsoft has created and pretrained many classifiers that you can start using without training them
+
+Custom trainable classifiers - Microsoft supports the ability to create and train custom classifiers. 
+
+Understand and explore the data
+
+Data classification can involve large numbers of documents and emails.
+
+... the overview section of the data classification pane in compliance portal provides many details at a glance, including:
+
+* The number of items classified as sensitive information and which classifications they are.
+* Details on the locations of data based on sensitivity.
+* Summary of actions that users are taking on sensitive content across the organization.
+
+What is the content explorer?
+
+*  It enables administrators to gain visibility into the content that has been summarized in the overview pane.
+
+
+What is the activity explorer?
+
+* Activity explorer provides visibility into what content has been discovered and labeled, and where that content is. It makes it possible to monitor what's being done with labeled content across the organization.
+
+Example
+
+* File copied to removable media
+* File copied to network share
+* Label applied
+* Label changed
 
 
 ## J.S Youtube
