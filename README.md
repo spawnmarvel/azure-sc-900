@@ -1156,9 +1156,28 @@ Priva Subject Rights Requests
 
 #### Describe the compliance management capabilities in Microsoft Purview
 
-https://learn.microsoft.com/en-us/training/modules/describe-compliance-management-capabilities-microsoft-365/
+The Microsoft Purview compliance portal is the portal for organizations to manage their compliance needs using integrated solutions for information protection, data lifecycle management, insider risk management, auditing, and more.
 
+The Microsoft Purview compliance portal brings together all of the tools and data that are needed to help understand and manage an organization’s compliance needs.
 
+The compliance portal is available to customers with a Microsoft 365 SKU with one of the following roles:
+
+* Global administrator
+* Compliance administrator
+* Compliance data administrator
+
+The Compliance Manager card. This card leads you to the Microsoft Purview Compliance Manager solution. Compliance Manager helps simplify the way you manage compliance. 
+
+It calculates a risk-based compliance score that measures progress toward completing recommended actions to reduce risks associated with data protection and regulatory standards. 
+
+The Active alerts card includes a summary of the most active alerts and a link where admins can view more detailed information, such as alert severity, status, category, and more.
+
+Navigation
+
+* Compliance Manager
+* Data Classification
+
+#### Describe Compliance Manager
 
 
 ## J.S Youtube

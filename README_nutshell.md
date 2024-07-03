@@ -24,3 +24,7 @@ https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-
 ## APPLIED SKILLS Configure SIEM security operations using Microsoft Sentinel
 
 https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/
+
+## Create a Microsoft Purview (formerly Azure Purview) account
+
+https://learn.microsoft.com/en-us/purview/create-microsoft-purview-portal
