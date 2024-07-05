@@ -1349,7 +1349,55 @@ After sensitivity labels are created, they need to be published to make them ava
 
 #### Describe data loss prevention
 
-https://learn.microsoft.com/en-us/training/modules/describe-information-protection-governance-capabilities-microsoft-365/5-describe-data-loss-prevention
+
+In Microsoft Purview, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across:
+
+* 365 (Teams, Exchange, SP, Onedrive)
+* Word, Excel, PP
+* Win 10, 11 and macos
+* Cloud apps
+* On premise fs and SP
+* Power BI
+
+Protective actions of DLP policies
+
+DLP policies are how you monitor the activities that users take on sensitive items at rest, sensitive items in transit, or sensitive items in use and take protective actions.
+
+Protective actions that DLP policies can take include:
+
+* Pop up warnings
+* Block sharing, via policy
+* Data at rest, sensitive items can be locked and moved to secure location/ quarantine
+* For Teams chat, the sensitive information won't be displayed.
+
+All DLP monitored activities are recorded to the Microsoft 365 Audit log by default and routed to Activity explorer.
+
+
+DLP Policy information
+
+DLP policies can be created from predefined templates, or you can create a custom policy. No matter which you choose, all DLP policies require the same information.
+
+* Type of data, scope, location, conditions, protective action
+
+
+What is endpoint data loss prevention?
+
+Endpoint DLP enables you to audit and manage the many activities users take on sensitive items that are physically stored Windows 10, Windows 11, or macOS devices. 
+
+* Create, rename, copy, print, access an item
+
+
+Data loss prevention in Microsoft Teams
+
+... administrators can use DLP policy tips that will be displayed to the user to show them why a policy has been triggered.
+
+
+#### Describe retention policies and retention labels
+
+https://learn.microsoft.com/en-us/training/modules/describe-information-protection-governance-capabilities-microsoft-365/6-describe-retention-polices-retention-labels
+
+
+
 
 
 ## J.S Youtube
