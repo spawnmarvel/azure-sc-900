@@ -1483,11 +1483,38 @@ Workflow
 
 ### Describe the eDiscovery and Audit capabilities in Microsoft Purview
 
-https://learn.microsoft.com/en-us/training/modules/describe-ediscovery-capabilities-of-microsoft-365/
+Organizations may need to identify, collect, and/or audit information for legal, regulatory, or business reasons. With today's volume and variety of data, it’s vital that an organization can do this in an efficient and timely manner.
 
-## J.S Youtube
+Learn how the eDiscovery and audit capabilities of Microsoft Purview help organizations find relevant data quickly.
 
-https://www.youtube.com/watch?v=Bz-8jM3jg-8
+
+#### Describe the eDiscovery solutions in Microsoft Purview
+
+Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases.
+
+eDiscovery tools in Microsoft Purview to search for content in Exchange Online, OneDrive for Business, SharePoint Online, Microsoft Teams, Microsoft 365 Groups, and Yammer teams.
+
+* Content Search
+* eDiscovery (Standard). The eDiscovery (Standard) solution builds on the basic search and export functionality of Content search by enabling you to create eDiscovery cases and assign eDiscovery managers to specific cases.
+* eDiscovery (Premium). The eDiscovery (Premium) solution builds on the existing capabilities in eDiscovery (Standard). In addition, eDiscovery (Premium) provides an end-to-end workflow to identify, preserve, collect, review, analyze, and export content that's responsive to your organization's internal and external investigations.
+
+
+#### Describe the audit solutions in Microsoft Purview
+
+Auditing solutions in Microsoft Purview help organizations effectively respond to security events, forensic investigations, internal investigations, and compliance obligations
+
+Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log.
+
+Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (Premium).
+
+
+![Audit](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/audit.jpg)
+
+
+
+
+
+
 
 ## Practice Assessment for Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 
@@ -1498,6 +1525,11 @@ https://www.youtube.com/watch?v=Bz-8jM3jg-8
 | 3   | 72  | Read a bit, a bit course
 | 4   | 60  | Read a bit 2, a bit course
 | 5   | x   | 
+
+
+## J.S Youtube
+
+https://www.youtube.com/watch?v=Bz-8jM3jg-8
 
 
 
