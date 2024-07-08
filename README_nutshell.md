@@ -28,6 +28,25 @@ https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-
 
 https://learn.microsoft.com/en-us/training/modules/describe-compliance-management-capabilities-microsoft-365/5-knowledge-check
 
+## Knowledge check 
+
+* Capabilities like retention policies, retention labels, and record management enable organizations to govern their data
+* Built in sensitive information types that you can use to identify data such as credit card numbers
+* Sensitivity  labels halp ensure that emails can only be decrypted only by users auto-
+rized by the lable's encryption settings
+* With data loss prevention policies, admins can now define policies that can prevent users from sharing sensitive information in teams, whether this information is in a message, or in a file.
+* You can use retention policies to define data retention for all documents in a SP site.
+* MS purview data map is able to capture metadata about enerprise data, to identoify and classify sensitive data
+
+https://learn.microsoft.com/en-us/training/modules/describe-information-protection-governance-capabilities-microsoft-365/8-knowledge-check
+
+
+## Knowledge check 
+
+* Use risk management to help protect your organization against sharing confidential information
+* MS purview communication compliance helps minimize communication risks by enabling you to detect, capture and take remediation actions for inappropriate messages in the organization
+
+https://learn.microsoft.com/en-us/training/modules/describe-insider-risk-capabilities-microsoft-365/4-knowledge-check
 
 ## Explore data classification in the compliance portal (video)
 
