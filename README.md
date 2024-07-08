@@ -1513,6 +1513,8 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 
 
 
+![Done](https://github.com/spawnmarvel/azure-sc-900/blob/main/images/done.jpg)
+
 
 
 
