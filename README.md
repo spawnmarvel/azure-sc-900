@@ -1518,7 +1518,7 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 
 
 
-## Practice Assessment for Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+## Practice Assessment for Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals 80 % or more
 
 | #  | Sum | Comment
 | --- | --- | -------------
@@ -1526,7 +1526,9 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 | 2   | 54  | In a hurry
 | 3   | 72  | Read a bit, a bit course
 | 4   | 60  | Read a bit 2, a bit course
-| 5   | x   | 
+| 5   | 70  | Tired
+| 6   |     | 
+
 
 
 ## J.S Youtube

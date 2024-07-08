@@ -64,3 +64,28 @@ https://learn.microsoft.com/en-us/purview/create-microsoft-purview-portal
 
 ## Remember this, abbreviation and words
 
+Which two industry frameworks are used in the Azure Security Benchmark? Each correct answer presents a complete solution.
+
+CIS is the main industry standard used. NIST is another standard used in ASB.
+
+https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/3-baselines-for-azure
+
+Which two types of security systems make up Microsoft Sentinel?
+
+Microsoft Sentinel is a mix of SIEM and SOAR systems.
+
+What can you use in Microsoft Sentinel to create visual reports?
+
+You can monitor data by using Microsoft Sentinel integration with Azure Monitor workbooks. 
+
+In Microsoft Sentinel, an incident is a group of related alerts
+
+
+
+
+
+
+
+
+
+
