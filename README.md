@@ -1535,6 +1535,8 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
 
+## Repeat the readme.md
+
 
 
 
