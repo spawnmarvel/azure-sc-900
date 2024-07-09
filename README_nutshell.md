@@ -32,14 +32,18 @@ Siem and Soar
 
 https://learn.microsoft.com/en-us/training/modules/describe-security-capabilities-of-azure-sentinel/2-define-concepts-of-siem-soar
 
+Defender for Office 36
 
-Defender for Office 365 safeguards against malicious threats posed by email messages, links (URLs), and collaboration tools, including Microsoft Teams, SharePoint Online, OneDrive for Business, and other Office clients.
+* Defender for Office 365 safeguards against malicious threats posed by email messages, links (URLs), and collaboration tools, including Microsoft Teams, SharePoint Online, OneDrive for Business, and other Office clients.
 
-Zero Trust assumes breach, and that all networks are open and untrusted.
+Zero Trust
 
-The Zero Trust model has three guiding principles which are verify explicitly, least privilege access, and assume breach.
+* Zero Trust assumes breach, and that all networks are open and untrusted.
+* The Zero Trust model has three guiding principles which are verify explicitly, least privilege access, and assume breach.
 
-Microsoft Entra ID can be used without the need for domain controller servers. Active Directory requires virtual machines or physical servers running Active Directory. Google and Facebook identity requires federation.
+Microsoft Entra ID
+
+* Microsoft Entra ID can be used without the need for domain controller servers. Active Directory requires virtual machines or physical servers running Active Directory. Google and Facebook identity requires federation.
 
 
 
