@@ -18,19 +18,20 @@ https://learn.microsoft.com/en-us/purview/create-microsoft-purview-portal
 
 Which two industry frameworks are used in the Azure Security Benchmark?
 
-Center for Internet Security (CIS)
+* Center for Internet Security (CIS)
+* National Institute of Standards and Technology (NIST)
 
-National Institute of Standards and Technology (NIST)
 
+Siem and Soar
 
-The collection of data from IT estate and the correlation of data are part of a SIEM system.
-
-Action-driven workflows and issue mitigation are done by SOAR systems.
+* Security information event management (SIEM) (security insight)
+* The collection of data from IT estate and the correlation of data are part of a SIEM system.
+* Security orchestration automated response (SOAR) (security automation)
+* Action-driven workflows and issue mitigation are done by SOAR systems.
+* Microsoft Sentinel is a mix of SIEM and SOAR systems.
 
 https://learn.microsoft.com/en-us/training/modules/describe-security-capabilities-of-azure-sentinel/2-define-concepts-of-siem-soar
 
-
-Microsoft Sentinel is a mix of SIEM and SOAR systems.
 
 Defender for Office 365 safeguards against malicious threats posed by email messages, links (URLs), and collaboration tools, including Microsoft Teams, SharePoint Online, OneDrive for Business, and other Office clients.
 
