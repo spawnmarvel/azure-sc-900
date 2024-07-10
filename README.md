@@ -1533,6 +1533,13 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 
 
 
+## Play with Microsoft Defender for Cloud (own cloud)
+
+Fix
+
+* Inventory
+* [...]
+ 
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
