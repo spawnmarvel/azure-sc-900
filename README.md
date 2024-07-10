@@ -1538,6 +1538,8 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 Fix
 
 * Inventory
+* * Network inbound vm docker added ip, not any
+* * Network vm zabbix
 * [...]
  
 ## J.S Youtube
