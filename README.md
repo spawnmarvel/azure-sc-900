@@ -1537,11 +1537,20 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 
 Fix
 
-* Inventory
-* * Network inbound vm docker added ip, not any
-* * Network vm zabbix
-* [...]
- 
+Inventory
+* Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost. 
+* All network ports should be restricted on network security groups associated to your virtual machine, docker ok, zabbix
+* Machines should be configured to periodically check for missing system updates
+
+Fix
+To enable the periodic assessment property:
+1. In the Azure portal, go to "Azure Update Manager", and select "Machines".
+2. Select the relevant machines, and then select "Update settings".
+3. Select "Periodic assessment" and follow the steps to complete the settings.
+
+*
+* 
+* 
 ## J.S Youtube
 
 https://www.youtube.com/watch?v=Bz-8jM3jg-8
