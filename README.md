@@ -1529,7 +1529,7 @@ Microsoft Purview provides two auditing solutions: Audit (Standard) and Audit (P
 | 5   | 70  | Tired
 | 6   | 80  | Course done, cool, getting there.
 | 7   | 88  | 
-| 8   | 84  | 
+| 8   |   | 
 
 
 
